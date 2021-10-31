@@ -26,3 +26,7 @@ This appplication takes in text as input and generates the emotion corresponding
 
 ![Screenshot of Output](/Output1.png)
 
+
+# Video Link
+
+https://youtu.be/vfw6i1WlJlY
