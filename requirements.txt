@@ -6,3 +6,6 @@ numpy
 datetime
 joblib
 base58
+sklearn
+neattext
+seaborn
