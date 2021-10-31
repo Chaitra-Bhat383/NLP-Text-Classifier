@@ -11,13 +11,8 @@ This appplication takes in text as input and generates the emotion corresponding
 * streamlit
 * altair
 * plotly
-* pandas
-* numpy
 * joblib
-* base64
 * sklearn
-* neattext
-* seaborn
-* datetime
+
 
 
