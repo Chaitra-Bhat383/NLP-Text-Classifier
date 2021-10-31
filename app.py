@@ -11,7 +11,7 @@ from datetime import datetime
 # Utils
 import joblib
 
-pipe_lr = joblib.load(open("models/Emotion_Classifier.pkl", "rb"))
+pipe_lr = joblib.load(open("Emotion_Classifier.pkl", "rb"))
 
 # Track Utils
 from track_utils import create_page_visited_table, add_page_visited_details, view_all_page_visited_details, \
